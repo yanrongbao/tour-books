@@ -15,14 +15,20 @@ export default defineConfig({
           title: '首页',
         },
         {
-          path: '/',
+          path: '/order',
           component: './order',
           title: '订单',
         },
         {
-          path: '/',
+          path: '/user',
           component: './user',
           title: '我的',
+        },
+
+        {
+          path: '/search',
+          component: './search',
+          title: '搜索',
         },
       ],
     },
@@ -31,4 +37,8 @@ export default defineConfig({
   plugins: [
     // ref: https://umijs.org/plugin/umi-plugin-react.html
   ],
+  lessLoader: {},
+  alias: {
+    '@': ['/src'],
+  },
 });
