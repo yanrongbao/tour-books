@@ -24,11 +24,15 @@ export default defineConfig({
           component: './user',
           title: '我的',
         },
-
         {
           path: '/search',
           component: './search',
           title: '搜索',
+        },
+        {
+          path: '/house',
+          component: './house',
+          title: '房屋详情',
         },
       ],
     },

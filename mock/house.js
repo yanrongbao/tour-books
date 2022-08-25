@@ -13,7 +13,7 @@ export default {
           },
           {
             id: 2,
-            img: 'https://i.postimg.cc/66C1YfHL/5dc9047a09bae31e12000676-360-202.png',
+            img: 'https://i.postimg.cc/DwqJHtKw/5a1f65a900015d1505400300-360-202.jpg',
             title: '西城民宿',
             info: '西城区山水怡情',
             price: '120',
@@ -41,7 +41,7 @@ export default {
           },
           {
             id: 6,
-            img: 'https://i.postimg.cc/66C1YfHL/5dc9047a09bae31e12000676-360-202.png',
+            img: 'https://i.postimg.cc/DwqJHtKw/5a1f65a900015d1505400300-360-202.jpg',
             title: '西城民宿',
             info: '西城区山水怡情',
             price: '120',
@@ -76,9 +76,9 @@ export default {
       data: {
         id: 8,
         banner: [
-          'http://img2.mukewang.com/szimg/5dc9047a09bae31e12000676-360-202.png',
-          'http://img2.mukewang.com/szimg/5ad05dc00001eae705400300-360-202.jpg',
-          'http://img1.mukewang.com/szimg/5a1f65a900015d1505400300-360-202.jpg',
+          'https://i.postimg.cc/dV6bnjVS/5d1032ab08719e0906000338-360-202.jpg',
+          'https://i.postimg.cc/DwqJHtKw/5a1f65a900015d1505400300-360-202.jpg',
+          'https://i.postimg.cc/pXnpnykS/5ad05dc00001eae705400300-360-202.jpg',
         ],
         info: {
           title: '老城民宿',
@@ -99,15 +99,14 @@ export default {
           {
             id: 1,
             avatar:
-              'http://img2.mukewang.com/szimg/5dc9047a09bae31e12000676-360-202.png',
+              'https://i.postimg.cc/dV6bnjVS/5d1032ab08719e0906000338-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '房屋很满意',
           },
           {
             id: 2,
-            avatar:
-              'http://img1.mukewang.com/szimg/5a1f65a900015d1505400300-360-202.jpg',
+            avatar: ' ',
             username: 'user',
             createTime: 1595238771000,
             info: '空气清新',
@@ -115,7 +114,7 @@ export default {
           {
             id: 3,
             avatar:
-              'http://img2.mukewang.com/szimg/5dc9047a09bae31e12000676-360-202.png',
+              'https://i.postimg.cc/pXnpnykS/5ad05dc00001eae705400300-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '态度温和',
@@ -123,7 +122,7 @@ export default {
           {
             id: 4,
             avatar:
-              'http://img1.mukewang.com/szimg/5a1f65a900015d1505400300-360-202.jpg',
+              'https://i.postimg.cc/DwqJHtKw/5a1f65a900015d1505400300-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '早餐味道美',
@@ -131,7 +130,7 @@ export default {
           {
             id: 5,
             avatar:
-              'http://img2.mukewang.com/szimg/5dc9047a09bae31e12000676-360-202.png',
+              'https://i.postimg.cc/pXnpnykS/5ad05dc00001eae705400300-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '态度温和',
@@ -139,7 +138,7 @@ export default {
           {
             id: 6,
             avatar:
-              'http://img1.mukewang.com/szimg/5a1f65a900015d1505400300-360-202.jpg',
+              'https://i.postimg.cc/DwqJHtKw/5a1f65a900015d1505400300-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '早餐味道美',
@@ -147,7 +146,7 @@ export default {
           {
             id: 7,
             avatar:
-              'http://img2.mukewang.com/szimg/5dc9047a09bae31e12000676-360-202.png',
+              'https://i.postimg.cc/pXnpnykS/5ad05dc00001eae705400300-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '态度温和',
@@ -155,7 +154,7 @@ export default {
           {
             id: 8,
             avatar:
-              'http://img1.mukewang.com/szimg/5a1f65a900015d1505400300-360-202.jpg',
+              'https://i.postimg.cc/DwqJHtKw/5a1f65a900015d1505400300-360-202.jpg',
             username: 'user',
             createTime: 1595238771000,
             info: '早餐味道美',
